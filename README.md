@@ -32,6 +32,8 @@ I'm currently channeling my energy into:
 ### Beyond Code 🌱  
 
 When I'm not debugging, you'll find me:  
+- building computers
+- making music
 - Exploring the latest in web tech  
 - Studying great software design  
 - Planning my next big leap forward  
@@ -40,4 +42,4 @@ When I'm not debugging, you'll find me:
 
 **Thanks for stopping by!** Let's connect if you share my passion for building great software.  
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square)](mailto:valkunrangeclips@protonmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square)](mailto:vqmsoftware@gmail.com)  
